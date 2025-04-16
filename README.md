@@ -55,11 +55,11 @@ Java, Spring, Redis, MySql, Docker, AWS
 
 ### <span style="color: #6E9BD2">오픈소스 기여</span>
 - **Spring Security**
-  - https://github.com/spring-projects/spring-security/commit/b8aa78829c04349a52be41554fd06d011312bb6b
+  - https://github.com/spring-projects/spring-security/pull/15898
 - **Spring Kafka**
-  - https://github.com/spring-projects/spring-kafka/commit/16133e212eb82c4940630c641da687de21389c0d
+  - https://github.com/spring-projects/spring-kafka/pull/3550
 - **Apache Kafka**
-  - https://github.com/apache/kafka/commit/491395e0b0efa7a3eee88fde1f8c539bb1f882d4
+  - https://github.com/apache/kafka/pull/17464
 
 ### <span style="color: #6E9BD2">수상이력</span>
 - **디지랩 챌린지: 기술로 바꾸는 세상 대상**
